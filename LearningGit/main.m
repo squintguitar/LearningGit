@@ -16,6 +16,7 @@ int main(int argc, const char * argv[])
         // insert code here...
         NSLog(@"Hi, Ed. I'm learning version control using Git.");
         NSLog(@"Another addition.");
+        NSLog(@"More changes.");
         
     }
     return 0;
